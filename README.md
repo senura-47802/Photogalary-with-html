@@ -1,1 +1,1 @@
-# Photogalary-with-html-
+# Photogalary with HTML and CSS
